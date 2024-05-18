@@ -5,7 +5,7 @@
 
 * AI_Plus
 
-* When was the company incorporated? December 2015.
+* When was the company incorporated? December 2018.
 
 * Who are the founders of the company? The founders of OpenAI include Sam Altman, Ilya Sutskever, Elon Musk, Greg Brockman, Wojciech Zaremba, and Andrej Karpathy
 
@@ -25,26 +25,26 @@
  
 ## Landscape
 
-* What field is the company in?  
+* What field is the company in?   Daily life
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+* What have been the major trends and innovations of this field over the last 5&ndash;10 years? Bringing product to market for consumer use 
 
-* What are the other major companies in this field?
+* What are the other major companies in this field? Business Finance
 
 ## Results
 
-* What has been the business impact of this company so far?
+* What has been the business impact of this company so far?  Efficiency and Innovation
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? Accuracy of Predictive Models
 
-* How is your company performing relative to competitors in the same field?
+* How is your company performing relative to competitors in the same field? leading in competitors field
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!) AI-Driven Virtual Travel Companion AI-Driven Personal Finance Advisor
 
-* Why do you think that offering this product or service would benefit the company?
+* Why do you think that offering this product or service would benefit the company? Feedback Loop for Research and Strategic Partnerships
 
-* What technologies would this additional product or service utilize?
+* What technologies would this additional product or service utilize? SEO Keyword Extraction Geolocation Services
 
-* Why are these technologies appropriate for your solution?
+* Why are these technologies appropriate for your solution? Predictive Models Chatbots Machine Learning
